@@ -1,0 +1,10 @@
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.csproj.AssemblyReference.cache
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.Form1.resources
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.Properties.Resources.resources
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.csproj.GenerateResource.cache
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\bin\Debug\NewDatabase.exe.config
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\bin\Debug\NewDatabase.exe
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\bin\Debug\NewDatabase.pdb
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.exe
+C:\Users\PERSONAL COMPUTER\source\repos\NewDatabase\NewDatabase\obj\Debug\NewDatabase.pdb
